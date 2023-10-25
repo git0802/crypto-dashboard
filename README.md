@@ -1,6 +1,6 @@
 # React Crypto User Dashboard
 
-## Overview (https://crypto-dashboard-ten-tau.vercel.app/)
+## Overview
 
 This repository contains a fully functional user dashboard built with React. The project features reusable components and leverages React's modern development tools such as hooks, useEffect, and useRef. If you're looking to create dynamic user interfaces for cryptocurrency-related applications, this project is a great starting point.
 
